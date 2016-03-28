@@ -1,7 +1,6 @@
 Coder Factory Academy - Styleguide
 ======
 
-### Coding-Style
 - Use soft-tabs with a two space indent.
 - Keep lines fewer than 80 characters.
 - Never leave trailing whitespace.
@@ -94,4 +93,3 @@ Coder Factory Academy - Styleguide
     other: "other"
   }
 ```
-
